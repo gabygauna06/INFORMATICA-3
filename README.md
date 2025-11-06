@@ -1,4 +1,4 @@
-# Esqueleto sin números (estilo Informática III)
+# Esqueleto (estilo Informática III)
 
 ## Estructura
 ```
@@ -7,16 +7,6 @@ src/
     introduction/
       app/
       impl/
-    recursion/
-    sorting/
-    stackqueue/
-    linkedlist/
-    avl/
-    rbt/
-    heap/
-    integrativeproject/
-  test/
-    introduction/
     recursion/
     sorting/
     stackqueue/
